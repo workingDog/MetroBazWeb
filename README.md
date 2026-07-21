@@ -22,4 +22,4 @@ The intentionally simple interface is a usability and accessibility choice.
 
 ## Privacy
 
-MetroBaz Privacy Policy can be access here [MetroBaz Privacy Policy](https://workingdog.github.io/MetroBaz/)
+MetroBaz Privacy Policy can be access here [MetroBaz Privacy Policy](https://workingdog.github.io/MetroBazWeb/)
