@@ -1,6 +1,6 @@
 #  MetroBaz
 
-This app allows the user to display the location of the free Metro Link Nihonbashi, Metro Link Nihonbashi E-Line Buses and the Marounouchi and Hibiya Shuttle buses.
+This app allows the user to display the location of the free Metro Link Nihonbashi, Metro Link Nihonbashi E-Line Buses and the Marounouchi and Hibiya Shuttle buses of Tokyo.
 
 In addition to the routes and the bus locations, **MetroBaz** provides bus time table at every bus stops and the nearest bus stop from the user location in an intuitive user interface.
 
